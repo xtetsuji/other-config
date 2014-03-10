@@ -1,0 +1,14 @@
+.line[alternate=even] { background-color: #fff; }
+.line[alternate=odd] { background-color: #eef; }
+.line[alternate=even], .line[alternate=odd] { padding-top: 1px; padding-bottom: 1px; }
+
+/*
+ ogata at 2014/03/08
+ http://d.hatena.ne.jp/hirose31/20140306/1394099045
+*/
+.console .line[type=join] { display:none; }
+.console .line[type=quit] { display:none; }
+.console .line[type=mode] { display:none; }
+.console .line[type=part] { display:none; }
+.console .line[type=nick] { display:none; }
+.console .line[type=reply] { display:none; }
