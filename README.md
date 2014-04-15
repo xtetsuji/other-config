@@ -2,8 +2,8 @@
 
 My settings are exists some repository.
 
-- dotfiles ... dotfiles of Linux/MacOS X/Cygwin etc.
-- emacs-config ... my ~/.emacs.d/ Emacs config.
+- [dotfiles](https://github.com/xtetsuji/dotfiles) ... dotfiles of Linux/MacOS X/Cygwin etc.
+- [emacs-config](https://github.com/xtetsuji/emacs-config) ... my ~/.emacs.d/ Emacs config.
 
 This repostory `other-config` is *other* configuration repository.
 
